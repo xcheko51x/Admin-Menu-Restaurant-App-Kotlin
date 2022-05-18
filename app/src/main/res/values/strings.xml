@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdminMenuRestaurantApp</string>
+    <string name="URL_API">"http://192.168.100.5/MenuRestaurantApp/api.php"</string>
+    <string name="RUTA_IMAGENES">"http://192.168.100.5/MenuRestaurantApp/img/"</string>
+</resources>
